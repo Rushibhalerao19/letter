@@ -15,7 +15,7 @@ export default function LetterContent({
   const message = [
     "I'm writing this just to tell you how grateful I am to have you in my life. Thank you for being someone who is always supportive and understanding. Your presence doesn't just color my days, but also gives me the spirit to keep becoming the best version of myself.",
     "I really appreciate every little moment we've shared together — from our fun discussions, the laughter we've shared, to your support that never falters even when I'm busy. You have an amazing way of making everything feel easier and more meaningful.",
-    "Thank you for choosing to walk beside me. I'm truly lucky to have known you this long and to have built so many stories with you. Keep being the great, loving Lisa that I know.",
+    "Thank you for choosing to walk beside me. I'm truly lucky to have known you this long and to have built so many stories with you. Keep being the great, loving Mishthi that I know.",
   ];
 
   return (
